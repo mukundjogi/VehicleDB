@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VehicleDB</string>
+    <string name="try_again">Try Again</string>
+    <string name="not_available">Not Available</string>
+</resources>
